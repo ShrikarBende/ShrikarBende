@@ -20,8 +20,8 @@
 - 💬 Ask me about **Web Development, Java, Python, AWS**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 - 📫 How to reach me: 
-  Gmail - **shrikarbende@gmail.com**
-  Linkedin - **https://www.linkedin.com/in/shrikar-bende**
+  - **Gmail** - **shrikarbende@gmail.com**
+  - **Linkedin:**  - **https://www.linkedin.com/in/shrikar-bende**
 
 ---
 ---
