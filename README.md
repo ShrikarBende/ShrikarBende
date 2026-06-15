@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shrikar Bende! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+IT+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🎯 **3rd Year IT Engineering Student** at Vishwakarma Institute of Technology, Pune
+- 🎯 **IT Engineering Student** at Vishwakarma Institute of Technology, Pune
 - 🌍 Based in **Pune, Maharashtra, India**
 - 💻 Passionate about **Full Stack Development** and **Cloud Computing**
 - 🔭 Currently working on **Data Structures & Algorithms**
@@ -22,35 +22,6 @@
 - 📫 How to reach me: 
   - **Gmail** - **shrikarbende@gmail.com**
   - **Linkedin:**  - **https://www.linkedin.com/in/shrikar-bende**
-
----
----
-<div align="center">
-
-## 🛠️ Technologies That I Know
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c" />
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github" />
-
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,linux,windows" />
-
-### Design & Other
-<img src="https://skillicons.dev/icons?i=figma,photoshop,ai,kubernetes,postman" />
-
-</div>
 
 ---
 
@@ -110,7 +81,6 @@
 
 <div align="center">
 
-### ✨ "First, solve the problem. Then, write the code." - John Johnson
 
 <img src="https://komarev.com/ghpvc/?username=ShrikarBende&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
