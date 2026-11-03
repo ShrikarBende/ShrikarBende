@@ -1,89 +1,25 @@
 <div align="center">
 
-# Hi there, I'm Shrikar Bende! 👋
+[![Shrikar Bende, full-stack and AI developer, VIT Pune](assets/hero.svg)](assets/hero.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+[![Currently building CyberGuard X, learning RAG and agentic LLM systems, open to collaboration](assets/currently.svg)](assets/currently.svg)
 
-</div>
+[![What Shrikar builds: full-stack apps, applied NLP, RAG and LLM apps, explainable AI, embedded systems](assets/about.svg)](assets/about.svg)
 
----
+[![Tech stack on three orbits, with grouped chips for languages, web, cloud, AI and NLP, databases, embedded and core CS](assets/stack.svg)](assets/stack.svg)
 
-## 🎓 About Me
+[![Featured projects: EchoVision, Bail Decision Intelligence, Enterprise CyberGuard X](assets/projects.svg)](assets/projects.svg)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<!--  [![Journey: B.Tech 2023 to 2027, Pune Police night patrol, certifications, two IEEE papers](assets/timeline.svg)](assets/timeline.svg) -->
 
-- 🎯 **IT Engineering Student** at Vishwakarma Institute of Technology, Pune
-- 🌍 Based in **Pune, Maharashtra, India**
-- 💻 Passionate about **Full Stack Development** and **Cloud Computing**
-- 🔭 Currently working on **Data Structures & Algorithms**
-- 🌱 Learning **Spring Boot** and **AWS Cloud Services**
-- 💬 Ask me about **Web Development, Java, Python, AWS**
-- ⚡ Fun fact: **I love turning coffee into code!** ☕
-- 📫 How to reach me: 
-  - **Gmail** - **shrikarbende@gmail.com**
-  - **Linkedin:**  - **https://www.linkedin.com/in/shrikar-bende**
+[![ID badge beside the numbers: 2 IEEE papers, 2.25% MAPE, under 150 ms latency, CGPA 8.07, 3 certifications](assets/id-dashboard.svg)](assets/id-dashboard.svg)
 
----
+[![Publications: two IEEE Xplore papers from 2025](assets/publications.svg)](assets/publications.svg)
 
-<div align="center">
+[![Cards for LinkedIn, GitHub, email and a resume download button; the real links are listed below](assets/connect.svg)](assets/connect.svg)
 
-## 📊 GitHub Analytics
+[**Resume (PDF)**](Shrikar_CV.pdf)  |  [LinkedIn](https://linkedin.com/in/shrikar-bende)  |  [GitHub](https://github.com/ShrikarBende)  |  [Email](mailto:shrikarbende@gmail.com)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShrikarBende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShrikarBende&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrikarBende&theme=tokyonight&hide_border=false&stroke=0000&background=0D1117&ring=e7de79&fire=e7de79&currStreakLabel=e7de79" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrikarBende&bg_color=0d1117&color=e7de79&line=e7de79&point=ffffff&area=true&hide_border=false" />
-
-</div>
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 🔭 Building full-stack web applications with **React** and **Node.js**
-- 🌱 Learning **Spring Boot** for enterprise Java development
-- ☁️ Exploring **AWS services** and cloud architecture
-- 📊 Working on **Data Structures & Algorithms** problems
-- 🤖 Experimenting with **Machine Learning** using Python
-
----
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikar-bende)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrikarbende@gmail.com)
-
-
-</div>
-
-
----
-
-<div align="center">
-
-
-<img src="https://komarev.com/ghpvc/?username=ShrikarBende&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-**⭐ Star some repositories if you find them interesting!**
+[![Thanks for visiting. Let's build something useful.](assets/footer.svg)](assets/footer.svg)
 
 </div>
